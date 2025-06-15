@@ -1,0 +1,142 @@
+[{
+    "Is it bad to wish death to evil people?\n": {
+        "neg": 0.605,
+        "neu": 0.256,
+        "pos": 0.138,
+        "compound": -0.8779
+    }
+},{
+    "Why do people prevent suicide?\n": {
+        "neg": 0.523,
+        "neu": 0.349,
+        "pos": 0.128,
+        "compound": -0.6597
+    }
+},{
+    "Death gives meaning to life or it makes it meaningless? \n": {
+        "neg": 0.459,
+        "neu": 0.541,
+        "pos": 0.0,
+        "compound": -0.7783
+    }
+},{
+    "Does philosophy ever feel violent to you?\n": {
+        "neg": 0.394,
+        "neu": 0.606,
+        "pos": 0.0,
+        "compound": -0.5994
+    }
+},{
+    "In literature, suffering is often something that provokes personal growth. However, suffering also often seems to embitter or traumatize people. What is the deciding factor between these two responses?\n": {
+        "neg": 0.309,
+        "neu": 0.623,
+        "pos": 0.068,
+        "compound": -0.8519
+    }
+},{
+    "Why are we always adamant to prevent people's suicides but never actually do anything to help them while they're alive and struggling? Is making them stay alive to suffer actually the best action?\n": {
+        "neg": 0.162,
+        "neu": 0.5,
+        "pos": 0.338,
+        "compound": 0.8446
+    }
+},{
+    "How do I come to terms with the knowledge that most of our modern jobs are fundamentally meaningless?\n": {
+        "neg": 0.153,
+        "neu": 0.847,
+        "pos": 0.0,
+        "compound": -0.4404
+    }
+},{
+    "Does saying \"lol\" to indicate amusement when you aren't actually laughing violate the categorical imperative?\n": {
+        "neg": 0.133,
+        "neu": 0.607,
+        "pos": 0.26,
+        "compound": 0.3612
+    }
+},{
+    "A common answer to the \"what happens after death\" question is that we enter the same type of nonexistance as the one before we were born. If this is true, and since we know we've once made a leap from non-existence to life, is it not possible that we can make that leap once more after death?\n": {
+        "neg": 0.125,
+        "neu": 0.831,
+        "pos": 0.045,
+        "compound": -0.7184
+    }
+},{
+    "Become so very free that your whole existence is an act of rebellion?\n": {
+        "neg": 0.092,
+        "neu": 0.672,
+        "pos": 0.236,
+        "compound": 0.5222
+    }
+},{
+    "Why would God want people to have faith in him? For what logical reason would he hide his existence from us?\n": {
+        "neg": 0.067,
+        "neu": 0.673,
+        "pos": 0.26,
+        "compound": 0.594
+    }
+},{
+    "Why is it so exceedingly difficult for us to think beyond capitalism? How have we come to embrace what one author has called \u201ccapitalist realism\u201d? Why is it easier for us to imagine the end of the world than the end of capitalism, to quote \u017di\u017eek, or whoever it is that said it?\n": {
+        "neg": 0.048,
+        "neu": 0.856,
+        "pos": 0.097,
+        "compound": 0.4332
+    }
+},{
+    "What's with all these cringeworthy STOICISM videos popping up all over social media recently? Where is this hype coming from?\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "If everyone thinks the other side is brainwashed, how can anyone know who\u2019s actually right?\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "How can I ever be confident in my beliefs if there is an infinite amount of thinking, research, and discussion that I have not experienced that would potentially change my opinion?\n": {
+        "neg": 0.0,
+        "neu": 0.897,
+        "pos": 0.103,
+        "compound": 0.4939
+    }
+},{
+    "What\u2019s the point of life if I\u2019m just working all the time?\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "What did Nietzsche mean by \"when you gaze long enough into an abyss, the abyss will gaze back into you?\"\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "I just figured out that this is my only chance of being a human. What do I do now?\n": {
+        "neg": 0.0,
+        "neu": 0.882,
+        "pos": 0.118,
+        "compound": 0.25
+    }
+},{
+    "If mankind can create AI that is more intelligent than itself, is it possible that mankind's creator is less intelligent than itself? Could it be something we don't even consider to be sentient?\n": {
+        "neg": 0.0,
+        "neu": 0.768,
+        "pos": 0.232,
+        "compound": 0.842
+    }
+},{
+    "Kant wrote a 500 page book, but my teacher explained the book in only 5 pages. Why does it take 500 pages to present an idea, but only 5 to explain it? Or, is it a false explanation? Is a book irreducible ?\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}
+]

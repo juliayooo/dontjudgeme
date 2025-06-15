@@ -1,0 +1,136 @@
+[{
+    "death is scary\n": {
+        "neg": 0.877,
+        "neu": 0.123,
+        "pos": 0.0,
+        "compound": -0.7964
+    }
+},
+{
+    "I'm worthless.\n": {
+        "neg": 0.744,
+        "neu": 0.256,
+        "pos": 0.0,
+        "compound": -0.4404
+    }
+},{
+    "I\u2019m feeling scared and alone\n": {
+        "neg": 0.583,
+        "neu": 0.238,
+        "pos": 0.179,
+        "compound": -0.5267
+    }
+},{
+    "My intrusive thoughts are horrible\n": {
+        "neg": 0.467,
+        "neu": 0.533,
+        "pos": 0.0,
+        "compound": -0.5423
+    }
+},{
+    "Can't make any friends \n": {
+        "neg": 0.46,
+        "neu": 0.54,
+        "pos": 0.0,
+        "compound": -0.3724
+    }
+},{
+    "Been having sleep problems lately and I\u2019m worried\n": {
+        "neg": 0.45,
+        "neu": 0.55,
+        "pos": 0.0,
+        "compound": -0.5994
+    }
+},{
+    "No one listens to me.\n": {
+        "neg": 0.355,
+        "neu": 0.645,
+        "pos": 0.0,
+        "compound": -0.296
+    }
+},{
+    "feeling empty bc of everything\n": {
+        "neg": 0.286,
+        "neu": 0.476,
+        "pos": 0.238,
+        "compound": -0.0772
+    }
+},{
+    "I think I\u2019ve got a crush on a fried\n": {
+        "neg": 0.242,
+        "neu": 0.758,
+        "pos": 0.0,
+        "compound": -0.1531
+    }
+},{
+    "I moved away from home and am feeling very homesick.\n": {
+        "neg": 0.19,
+        "neu": 0.667,
+        "pos": 0.143,
+        "compound": -0.1263
+    }
+},{
+    "I can\u2019t seem to change my \u201ctone\u201d\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "I don\u2019t want you guys to think of me as a monster I want genuine advice and comfort\n": {
+        "neg": 0.0,
+        "neu": 0.702,
+        "pos": 0.298,
+        "compound": 0.4767
+    }
+},{
+    "hi\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "I really really need someone\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "I need a hug\n": {
+        "neg": 0.0,
+        "neu": 0.244,
+        "pos": 0.756,
+        "compound": 0.4767
+    }
+},{
+    "I really need a hug\n": {
+        "neg": 0.0,
+        "neu": 0.372,
+        "pos": 0.628,
+        "compound": 0.5233
+    }
+},{
+    "What do I do\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "Can i get praised\u2026\n": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+},{
+    "I feel like a monster sometimes.\n": {
+        "neg": 0.0,
+        "neu": 0.545,
+        "pos": 0.455,
+        "compound": 0.3612
+    }
+}
+]

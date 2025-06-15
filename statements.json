@@ -1,0 +1,1261 @@
+{
+    "depression = losing intelligence": {
+        "neg": 0.67,
+        "neu": 0.0,
+        "pos": 0.33,
+        "compound": -0.4939
+    }
+}{
+    "my therapist died": {
+        "neg": 0.643,
+        "neu": 0.357,
+        "pos": 0.0,
+        "compound": -0.5574
+    }
+}{
+    "i miss myself": {
+        "neg": 0.615,
+        "neu": 0.385,
+        "pos": 0.0,
+        "compound": -0.1531
+    }
+}{
+    "anhedonia is the worst part of depression": {
+        "neg": 0.609,
+        "neu": 0.391,
+        "pos": 0.0,
+        "compound": -0.8316
+    }
+}{
+    "it\u2019s not that i want to kill myself. but if i die i wouldn\u2019t be upset.": {
+        "neg": 0.585,
+        "neu": 0.415,
+        "pos": 0.0,
+        "compound": -0.9138
+    }
+}{
+    "i almost killed myself today": {
+        "neg": 0.584,
+        "neu": 0.416,
+        "pos": 0.0,
+        "compound": -0.6378
+    }
+}{
+    "i\u2019ve wasted so much time being depressed, that i\u2019m depressed about wasting time.": {
+        "neg": 0.581,
+        "neu": 0.419,
+        "pos": 0.0,
+        "compound": -0.91
+    }
+}{
+    "the worst part of depression is that it's stolen my personality": {
+        "neg": 0.579,
+        "neu": 0.421,
+        "pos": 0.0,
+        "compound": -0.9001
+    }
+}{
+    "too depressed to be productive, and not depressed enough to kill myself": {
+        "neg": 0.557,
+        "neu": 0.443,
+        "pos": 0.0,
+        "compound": -0.9062
+    }
+}{
+    "i hate 'foggy brain syndrome'": {
+        "neg": 0.552,
+        "neu": 0.448,
+        "pos": 0.0,
+        "compound": -0.5719
+    }
+}{
+    "is i strangely sick of being high functioning.": {
+        "neg": 0.524,
+        "neu": 0.476,
+        "pos": 0.0,
+        "compound": -0.6705
+    }
+}{
+    "shout out to the particular hell that is functional depression.": {
+        "neg": 0.509,
+        "neu": 0.491,
+        "pos": 0.0,
+        "compound": -0.8519
+    }
+}{
+    "nostalgia is not as pleasant when you're depressed": {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.7186
+    }
+}{
+    "anger as a symptom of depression need to be recognized more": {
+        "neg": 0.481,
+        "neu": 0.519,
+        "pos": 0.0,
+        "compound": -0.8126
+    }
+}{
+    "being suicidal is like being at a terrible party": {
+        "neg": 0.452,
+        "neu": 0.238,
+        "pos": 0.31,
+        "compound": -0.5267
+    }
+}{
+    "nobody warns you that depression makes you an awful person to be around": {
+        "neg": 0.448,
+        "neu": 0.552,
+        "pos": 0.0,
+        "compound": -0.7964
+    }
+}{
+    "f*** u if u discriminate against people with trauma and mental illness": {
+        "neg": 0.407,
+        "neu": 0.593,
+        "pos": 0.0,
+        "compound": -0.6705
+    }
+}{
+    "i start sobbing when they think of how much they missed out on because of their depression.": {
+        "neg": 0.395,
+        "neu": 0.605,
+        "pos": 0.0,
+        "compound": -0.8176
+    }
+}{
+    "i went to university to get a degree instead i got depression and anxiety": {
+        "neg": 0.375,
+        "neu": 0.625,
+        "pos": 0.0,
+        "compound": -0.6597
+    }
+}{
+    "self care is too hard when you're depressed": {
+        "neg": 0.364,
+        "neu": 0.388,
+        "pos": 0.248,
+        "compound": -0.128
+    }
+}{
+    "i feel like i\u2019m addicted to depression.": {
+        "neg": 0.363,
+        "neu": 0.392,
+        "pos": 0.245,
+        "compound": -0.296
+    }
+}{
+    "a depressed persons vocabulary \"i'm fine\" \"im okay\" \"nah i'm just tired\" \"it's not a big deal\".": {
+        "neg": 0.357,
+        "neu": 0.469,
+        "pos": 0.174,
+        "compound": -0.5994
+    }
+}{
+    "the worst part of depression is waking up and the first thought that pops in your head is how shitty you feel, alone and already struggling to get through the day before it\u2019s even started.": {
+        "neg": 0.351,
+        "neu": 0.649,
+        "pos": 0.0,
+        "compound": -0.9451
+    }
+}{
+    "the worst part of the depression, is that feeling, deep deep down, that the reason you're depressed is because you want to be.": {
+        "neg": 0.348,
+        "neu": 0.564,
+        "pos": 0.088,
+        "compound": -0.8834
+    }
+}{
+    "today i woke up and didn\u2019t want to die.": {
+        "neg": 0.348,
+        "neu": 0.536,
+        "pos": 0.116,
+        "compound": -0.5574
+    }
+}{
+    "is i hating the fact that they\u2019re wasting time of their life as you\u2019re witnessing it all go in the drain because of their stupid mental illness holding you down.": {
+        "neg": 0.326,
+        "neu": 0.674,
+        "pos": 0.0,
+        "compound": -0.9022
+    }
+}{
+    "we only wish depression was being \"sad\".": {
+        "neg": 0.325,
+        "neu": 0.439,
+        "pos": 0.237,
+        "compound": -0.25
+    }
+}{
+    "life doesn't \"get better\" unless you take actions to make it better. but depression itself can make it impossible to act": {
+        "neg": 0.32,
+        "neu": 0.68,
+        "pos": 0.0,
+        "compound": -0.8154
+    }
+}{
+    "i hate that people don\u2019t understand that i don\u2019t want to kill myself, i just don\u2019t want to be alive anymore": {
+        "neg": 0.316,
+        "neu": 0.489,
+        "pos": 0.195,
+        "compound": -0.7351
+    }
+}{
+    "i feel like i'm getting stupider, less talented, clumsier, and that soon i will be completely retarded.": {
+        "neg": 0.312,
+        "neu": 0.458,
+        "pos": 0.229,
+        "compound": -0.4563
+    }
+}{
+    "i'm black, i'm scared, tired and i'm at the end of my rope with life.": {
+        "neg": 0.309,
+        "neu": 0.691,
+        "pos": 0.0,
+        "compound": -0.7003
+    }
+}{
+    "high-functioning depression: i feel like i'm living a double life.": {
+        "neg": 0.303,
+        "neu": 0.492,
+        "pos": 0.205,
+        "compound": -0.296
+    }
+}{
+    "it sucks how mental health is never a valid excuse in college": {
+        "neg": 0.293,
+        "neu": 0.707,
+        "pos": 0.0,
+        "compound": -0.4063
+    }
+}{
+    "i wish i could say \"i was depressed\" the same way i say \"i was sick\" to explain my absence": {
+        "neg": 0.283,
+        "neu": 0.601,
+        "pos": 0.116,
+        "compound": -0.5994
+    }
+}{
+    "ive decided to get admitted to a hospital instead of just killing myself": {
+        "neg": 0.278,
+        "neu": 0.633,
+        "pos": 0.089,
+        "compound": -0.6124
+    }
+}{
+    "i hate how people boast about how much they support mental illness then once they meet a mentally ill person they want nothing to do with them": {
+        "neg": 0.277,
+        "neu": 0.602,
+        "pos": 0.12,
+        "compound": -0.7351
+    }
+}{
+    "an unexpected side effect of depression: the decline of cognitive capabilities": {
+        "neg": 0.27,
+        "neu": 0.73,
+        "pos": 0.0,
+        "compound": -0.5719
+    }
+}{
+    "i think that the worst part of depression is that every day you just wait for the day to end cause that's all you have": {
+        "neg": 0.262,
+        "neu": 0.738,
+        "pos": 0.0,
+        "compound": -0.8316
+    }
+}{
+    "has i went to see a therapist to get help from their severe depression, but once you get there your mind is so hazy and forgetful that it makes it extremely difficult to explain your experience.": {
+        "neg": 0.261,
+        "neu": 0.695,
+        "pos": 0.044,
+        "compound": -0.8416
+    }
+}{
+    "2 years since i dropped out of college due to anxiety and depression, i finally signed back up for classes yesterday.": {
+        "neg": 0.252,
+        "neu": 0.748,
+        "pos": 0.0,
+        "compound": -0.6597
+    }
+}{
+    "the scary part about having depression is when you start to feel down it's hard to know if it's a temporary reaction to life or the start of a relapse": {
+        "neg": 0.249,
+        "neu": 0.751,
+        "pos": 0.0,
+        "compound": -0.8074
+    }
+}{
+    "do you ever just stop dead in the middle of whatever you're doing and feel a great wave of existential dread/self-hatred": {
+        "neg": 0.236,
+        "neu": 0.616,
+        "pos": 0.149,
+        "compound": -0.34
+    }
+}{
+    "the worst thing about depression,is seeing everyone around you progress in their life and you are stuck in the same place": {
+        "neg": 0.227,
+        "neu": 0.669,
+        "pos": 0.104,
+        "compound": -0.5106
+    }
+}{
+    "imagine if the cure to a broken leg was to run a marathon with it. that's what getting help for depression looks like to me.": {
+        "neg": 0.219,
+        "neu": 0.613,
+        "pos": 0.168,
+        "compound": -0.3818
+    }
+}{
+    "i find it increasingly hard to pretend to be a normal functioning human being.": {
+        "neg": 0.219,
+        "neu": 0.781,
+        "pos": 0.0,
+        "compound": -0.2023
+    }
+}{
+    "i cried in front of my family today. they ended up comparing their issues to mine and tell me that other people have it worse.": {
+        "neg": 0.206,
+        "neu": 0.794,
+        "pos": 0.0,
+        "compound": -0.6908
+    }
+}{
+    "my therapist finally convinced me to start getting out of the house and this shit happens.": {
+        "neg": 0.203,
+        "neu": 0.668,
+        "pos": 0.129,
+        "compound": -0.3716
+    }
+}{
+    "just because i laughed at a joke doesn\u2019t mean i\u2019m suddenly cured of my depression": {
+        "neg": 0.196,
+        "neu": 0.529,
+        "pos": 0.275,
+        "compound": 0.128
+    }
+}{
+    "when i\u2019m sitting on my ass doing nothing, i feel useless and depressed. when i\u2019m actually doing something, i think about how i\u2019d rather be just relaxing at home": {
+        "neg": 0.192,
+        "neu": 0.651,
+        "pos": 0.157,
+        "compound": -0.3111
+    }
+}{
+    "i barely hanging on to life with no motivation whatsoever.": {
+        "neg": 0.19,
+        "neu": 0.603,
+        "pos": 0.207,
+        "compound": 0.0516
+    }
+}{
+    "people that aren't depressed exist and it's f***in insane to me.": {
+        "neg": 0.187,
+        "neu": 0.625,
+        "pos": 0.188,
+        "compound": 0.0005
+    }
+}{
+    "i wasn't built for this life! every time i think about a job or career i get the urge to cry!": {
+        "neg": 0.187,
+        "neu": 0.813,
+        "pos": 0.0,
+        "compound": -0.5696
+    }
+}{
+    "depression is one of the few diseases that can end your life without killing you": {
+        "neg": 0.183,
+        "neu": 0.643,
+        "pos": 0.174,
+        "compound": -0.0475
+    }
+}{
+    "i stay up super late to avoid the next day.": {
+        "neg": 0.168,
+        "neu": 0.534,
+        "pos": 0.298,
+        "compound": 0.4019
+    }
+}{
+    "it\u2019s like i died at 15, but my body just kept on living.": {
+        "neg": 0.164,
+        "neu": 0.712,
+        "pos": 0.125,
+        "compound": -0.1406
+    }
+}{
+    "staying alive just so you won't make anyone sad seems exhausting.": {
+        "neg": 0.16,
+        "neu": 0.511,
+        "pos": 0.329,
+        "compound": 0.3927
+    }
+}{
+    "i f***ing hate dreams that make you feel love and make you feel happy": {
+        "neg": 0.159,
+        "neu": 0.386,
+        "pos": 0.455,
+        "compound": 0.7845
+    }
+}{
+    "i hope being dead is like sleeping,because im tired,i really am,i just want to sleep forever and never wake up again": {
+        "neg": 0.158,
+        "neu": 0.587,
+        "pos": 0.255,
+        "compound": 0.1689
+    }
+}{
+    "when you become closed off due to depression and your friends and family start shutting you out because they think you're being mean when you are really just empty inside and don't have the energy to be happy anymore": {
+        "neg": 0.157,
+        "neu": 0.703,
+        "pos": 0.141,
+        "compound": 0.0535
+    }
+}{
+    "i can overhear my mother on the phone laughing and joking about my depression to her friend": {
+        "neg": 0.154,
+        "neu": 0.5,
+        "pos": 0.346,
+        "compound": 0.5574
+    }
+}{
+    "too depressed to have a healthy relationship yet constantly wanting love and affection.": {
+        "neg": 0.153,
+        "neu": 0.37,
+        "pos": 0.477,
+        "compound": 0.7906
+    }
+}{
+    "i have a period where they feel really motivated and see things clearly, only to crash even harder the more you try to better yourself, feeling even more depressed than you were originally.": {
+        "neg": 0.151,
+        "neu": 0.6,
+        "pos": 0.249,
+        "compound": 0.4767
+    }
+}{
+    "i stay up to 3am every night wanting to die only to get up for school and start the cycle over again every day.": {
+        "neg": 0.151,
+        "neu": 0.849,
+        "pos": 0.0,
+        "compound": -0.5994
+    }
+}{
+    "life feels like staring at the fridge when nothing looks good to eat": {
+        "neg": 0.151,
+        "neu": 0.692,
+        "pos": 0.157,
+        "compound": 0.0243
+    }
+}{
+    "i ever feel like the \u201cold you\u201d died years ago, and now you\u2019re just limping along as someone you really can\u2019t stand.": {
+        "neg": 0.143,
+        "neu": 0.757,
+        "pos": 0.1,
+        "compound": -0.2732
+    }
+}{
+    "it sucks when you wake up and the only thing you look forward to is sleeping again": {
+        "neg": 0.135,
+        "neu": 0.865,
+        "pos": 0.0,
+        "compound": -0.3612
+    }
+}{
+    "when you realize that you have an incredibly easy life but you\u2019re screwing it up for yourself": {
+        "neg": 0.121,
+        "neu": 0.771,
+        "pos": 0.108,
+        "compound": -0.0653
+    }
+}{
+    "how do you tell someone... i'm not ignoring you right now. i'm just disconnected from reality right now, the days are all blurred together, and i feel completely numb towards everything around me. so it's really hard for me to maintain a conversation.": {
+        "neg": 0.104,
+        "neu": 0.846,
+        "pos": 0.05,
+        "compound": -0.3382
+    }
+}{
+    "i (24 f) got dressed and did a bit of my makeup to meet up with a friend at a coffee shop. i\u2019m in the middle of a depressive episode and dealing with some great difficulties in my personal life. she didn\u2019t show up. this was my attempt to \u201creach out\u201d.": {
+        "neg": 0.089,
+        "neu": 0.776,
+        "pos": 0.135,
+        "compound": 0.5423
+    }
+}{
+    "it\u2019s crazy how fast i can go from \u201cmaybe i\u2019m not depressed anymore!\u201d to \u201ci\u2019m gonna take a nap and hope i don\u2019t wake up!\u201d": {
+        "neg": 0.087,
+        "neu": 0.689,
+        "pos": 0.224,
+        "compound": 0.584
+    }
+}{
+    "it's hard to take care of yourself, when you don't care about yourself.": {
+        "neg": 0.079,
+        "neu": 0.562,
+        "pos": 0.36,
+        "compound": 0.7184
+    }
+}{
+    "isn't it amazing that everyone who's never had depression, or lives an extremely happy and successful life tries to tell you how to cure depression :)": {
+        "neg": 0.077,
+        "neu": 0.498,
+        "pos": 0.425,
+        "compound": 0.9323
+    }
+}{
+    "if 10 years ago someone told me that in 10 years i would be routinely sitting in my room all day doing nothing to make myself a successful man but eat, sleep and use my phone/pc and sometimes go out for a lonely aimless walks, i would never believe them": {
+        "neg": 0.065,
+        "neu": 0.886,
+        "pos": 0.048,
+        "compound": -0.2144
+    }
+}{
+    "i don't want to die but if i was offered a chance to erase myself from existence, i would take it": {
+        "neg": 0.056,
+        "neu": 0.711,
+        "pos": 0.232,
+        "compound": 0.5365
+    }
+}{
+    "1": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "3": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "5": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "7": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "9": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "11": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "13": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "17": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "19": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "21": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "23": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "25": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "27": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i have a constant feeling of not fitting in or belonging anywhere.": {
+        "neg": 0.0,
+        "neu": 0.857,
+        "pos": 0.143,
+        "compound": 0.128
+    }
+}{
+    "29": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "31": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "33": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "35": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "37": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "39": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "41": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "43": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "45": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "47": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "49": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "becoming a regular at a local coffee shop changed my life": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "51": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "53": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "55": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "57": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "59": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "61": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "63": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "65": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "67": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "69": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "71": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "73": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "75": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "77": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "79": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "81": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "83": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i get really happy and motivated for a few hours to a few days, just to fall off the edge again.": {
+        "neg": 0.0,
+        "neu": 0.688,
+        "pos": 0.312,
+        "compound": 0.8051
+    }
+}{
+    "85": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "89": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "alive, barely.": {
+        "neg": 0.0,
+        "neu": 0.278,
+        "pos": 0.722,
+        "compound": 0.3818
+    }
+}{
+    "91": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "93": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "95": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "97": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "99": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "101": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "103": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "105": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "109": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i sleep all day because it\u2019s the closest thing i can get to not existing": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "111": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "113": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "115": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "117": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "119": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "121": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "123": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "125": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i finally know why i stay up so late": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "127": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "129": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "131": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "133": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "135": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "137": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "139": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "141": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "143": {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6369
+    }
+}{
+    "145": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "147": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "149": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "151": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "153": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "155": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i don't wanna kill myself, i just don't wanna wake up anymore.": {
+        "neg": 0.0,
+        "neu": 0.707,
+        "pos": 0.293,
+        "compound": 0.5773
+    }
+}{
+    "157": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "when i don\u2019t have a job, i want a job. when i have a job, i don\u2019t want a job. when it\u2019s hot, i want it to be cold. when it\u2019s f***ing cold, i want it to be hot. when i\u2019m myself i want to be with people, when i\u2019m with people i want to be by myself": {
+        "neg": 0.0,
+        "neu": 0.837,
+        "pos": 0.163,
+        "compound": 0.4215
+    }
+}{
+    "159": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "161": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "163": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "165": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "169": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "171": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "173": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "175": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i have issues showering/brushing teeth/etc to the point where it\u2019s now a big issue.": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "177": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "179": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "181": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "fun fact: when i was younger many people told me i was a gifted child of above average intelligence.": {
+        "neg": 0.0,
+        "neu": 0.686,
+        "pos": 0.314,
+        "compound": 0.7506
+    }
+}{
+    "183": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "i fantasize about a social life in my head": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "185": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "189": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "191": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "193": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "195": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "197": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}{
+    "199": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}

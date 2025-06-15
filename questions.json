@@ -1,0 +1,70 @@
+{
+  
+    "had anyone noticed memory decline from depression?":{
+        "neg": 0.381,
+        "neu": 0.619,
+        "pos": 0.0,
+        "compound": -0.5719
+    },
+    "do you ever feel that the deeper in depression you are, the dumber you become?": {
+        "neg": 0.323,
+        "neu": 0.677,
+        "pos": 0.0,
+        "compound": -0.7351
+    },
+    "do you also keep switching from admitting to yourself that you have depression to invalidating yourself into thinking you were just playing victim?": {
+        "neg": 0.227,
+        "neu": 0.703,
+        "pos": 0.07,
+        "compound": -0.6124
+    },
+    "ever wake up in the morning and immediately fill with dread that you have to go through the agony of another day?": {
+        "neg": 0.225,
+        "neu": 0.775,
+        "pos": 0.0,
+        "compound": -0.7003
+    },
+    "do you ever feel like you died long ago, and you're just a zombified shell?": {
+        "neg": 0.224,
+        "neu": 0.621,
+        "pos": 0.155,
+        "compound": -0.2732
+    },
+    "do you ever get so empty you\u2019re excited when you finally start crying because at least you\u2019re feeling an emotion?": {
+        "neg": 0.213,
+        "neu": 0.624,
+        "pos": 0.162,
+        "compound": -0.3188
+    },
+    "have you ever gotten so lonely and depressed to the point where all you wanted is merely a hug or a \"are you ok\" from someone?": {
+        "neg": 0.212,
+        "neu": 0.623,
+        "pos": 0.165,
+        "compound": -0.3622
+    },
+    "do you ever stay up late so you can avoid tomorrow?": {
+        "neg": 0.183,
+        "neu": 0.817,
+        "pos": 0.0,
+        "compound": -0.3535
+    },
+    "don't you just want to sleep and sleep and sleep?": {
+        "neg": 0.12,
+        "neu": 0.88,
+        "pos": 0.0,
+        "compound": -0.0572
+    },
+    "you ever feel bad for not checking up on somebody then you realise the phone goes both ways and they aren't checking up on me are they?": {
+        "neg": 0.119,
+        "neu": 0.881,
+        "pos": 0.0,
+        "compound": -0.5423
+    },
+ 
+    "do you ever think, \u201cf***, i just wanna go home,\u201d but you\u2019re already inside your \u201chome\u201d?": {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+    }
+}
